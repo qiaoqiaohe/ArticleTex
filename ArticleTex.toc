@@ -1,0 +1,31 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {section}{\numberline {2}Introduction}{3}{section.2}
+\contentsline {section}{\numberline {3}Background}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}MODIS Data}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Carbon Dioxide Flux Data}{6}{subsection.3.2}
+\contentsline {section}{\numberline {4}Literature Review}{8}{section.4}
+\contentsline {subsection}{\numberline {4.1}Ecology}{8}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Statistics}{9}{subsection.4.2}
+\contentsline {section}{\numberline {5}Data}{10}{section.5}
+\contentsline {subsection}{\numberline {5.1}Location Selection}{10}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Data View}{11}{subsection.5.2}
+\contentsline {section}{\numberline {6}Methods}{12}{section.6}
+\contentsline {subsection}{\numberline {6.1}Additive Model}{14}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Spline Smoothing}{14}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Registration}{16}{subsection.6.3}
+\contentsline {subsubsection}{\numberline {6.3.1}Warping Function}{17}{subsubsection.6.3.1}
+\contentsline {subsection}{\numberline {6.4}A Model of the Registered Curves: Multivariate Normal}{18}{subsection.6.4}
+\contentsline {subsubsection}{\numberline {6.4.1}Non-degenerate Case}{19}{subsubsection.6.4.1}
+\contentsline {subsubsection}{\numberline {6.4.2}Degenerate Case}{19}{subsubsection.6.4.2}
+\contentsline {subsection}{\numberline {6.5}One Simulation Method}{19}{subsection.6.5}
+\contentsline {subsection}{\numberline {6.6}A Model for the Inverse Warping Function: Dirichlet Regression}{19}{subsection.6.6}
+\contentsline {subsubsection}{\numberline {6.6.1}Dirichlet Distribution}{21}{subsubsection.6.6.1}
+\contentsline {subsubsection}{\numberline {6.6.2}Dirichlet Regression}{21}{subsubsection.6.6.2}
+\contentsline {subsection}{\numberline {6.7}Kriging}{22}{subsection.6.7}
+\contentsline {section}{\numberline {7}Conclusion}{23}{section.7}
+\contentsline {section}{\numberline {8}Future Work}{24}{section.8}
+\contentsline {section}{Appendix \numberline {A}Selected Notations}{26}{Appendix.1.A}
+\contentsline {section}{Appendix \numberline {B}Eddy covariance method to calculate vertical flux.}{27}{Appendix.1.B}
+\contentsline {section}{Appendix \numberline {C}R code of GAM model (equation \ref {Eq:AddMod})}{28}{Appendix.1.C}
+\contentsline {section}{Appendix \numberline {D}The detail of equation \ref {eq:simplification}}{29}{Appendix.1.D}
+\contentsline {section}{Appendix \numberline {E}Difference between second order stationary and intrinsic stationary}{30}{Appendix.1.E}

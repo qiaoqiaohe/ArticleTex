@@ -1,0 +1,31 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Introduction}{}% 2
+\BOOKMARK [1][-]{section.3}{Background}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{MODIS Data}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Carbon Dioxide Flux Data}{section.3}% 5
+\BOOKMARK [1][-]{section.4}{Literature Review}{}% 6
+\BOOKMARK [2][-]{subsection.4.1}{Ecology}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.2}{Statistics}{section.4}% 8
+\BOOKMARK [1][-]{section.5}{Data}{}% 9
+\BOOKMARK [2][-]{subsection.5.1}{Location Selection}{section.5}% 10
+\BOOKMARK [2][-]{subsection.5.2}{Data View}{section.5}% 11
+\BOOKMARK [1][-]{section.6}{Methods}{}% 12
+\BOOKMARK [2][-]{subsection.6.1}{Additive Model}{section.6}% 13
+\BOOKMARK [2][-]{subsection.6.2}{Spline Smoothing}{section.6}% 14
+\BOOKMARK [2][-]{subsection.6.3}{Registration}{section.6}% 15
+\BOOKMARK [3][-]{subsubsection.6.3.1}{Warping Function}{subsection.6.3}% 16
+\BOOKMARK [2][-]{subsection.6.4}{A Model of the Registered Curves: Multivariate Normal}{section.6}% 17
+\BOOKMARK [3][-]{subsubsection.6.4.1}{Non-degenerate Case}{subsection.6.4}% 18
+\BOOKMARK [3][-]{subsubsection.6.4.2}{Degenerate Case}{subsection.6.4}% 19
+\BOOKMARK [2][-]{subsection.6.5}{One Simulation Method}{section.6}% 20
+\BOOKMARK [2][-]{subsection.6.6}{A Model for the Inverse Warping Function: Dirichlet Regression}{section.6}% 21
+\BOOKMARK [3][-]{subsubsection.6.6.1}{Dirichlet Distribution}{subsection.6.6}% 22
+\BOOKMARK [3][-]{subsubsection.6.6.2}{Dirichlet Regression}{subsection.6.6}% 23
+\BOOKMARK [2][-]{subsection.6.7}{Kriging}{section.6}% 24
+\BOOKMARK [1][-]{section.7}{Conclusion}{}% 25
+\BOOKMARK [1][-]{section.8}{Future Work}{}% 26
+\BOOKMARK [1][-]{Appendix.1.A}{Appendix Selected Notations}{}% 27
+\BOOKMARK [1][-]{Appendix.1.B}{Appendix Eddy covariance method to calculate vertical flux.}{}% 28
+\BOOKMARK [1][-]{Appendix.1.C}{Appendix R code of GAM model \(equation 2\)}{}% 29
+\BOOKMARK [1][-]{Appendix.1.D}{Appendix The detail of equation 30}{}% 30
+\BOOKMARK [1][-]{Appendix.1.E}{Appendix Difference between second order stationary and intrinsic stationary}{}% 31

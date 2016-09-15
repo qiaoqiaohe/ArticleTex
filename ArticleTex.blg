@@ -1,0 +1,75 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ArticleTex.aux
+The style file: apa.bst
+I found no \bibdata command---while reading file ArticleTex.aux
+Warning--I didn't find a database entry for "king2007our"
+Warning--I didn't find a database entry for "misson2007partitioning"
+Warning--I didn't find a database entry for "heinsch2006evaluation"
+Warning--I didn't find a database entry for "kalfas2011modeling"
+Warning--I didn't find a database entry for "cleugh2007regional"
+Warning--I didn't find a database entry for "moffat2007comprehensive"
+Warning--I didn't find a database entry for "klosterman2014evaluating"
+Warning--I didn't find a database entry for "yang2007developing"
+Warning--I didn't find a database entry for "yang2006prediction"
+Warning--I didn't find a database entry for "levitin2007introduction"
+Warning--I didn't find a database entry for "epifanio2011functional"
+Warning--I didn't find a database entry for "epifanio2014hippocampal"
+Warning--I didn't find a database entry for "leng2006classification"
+Warning--I didn't find a database entry for "reimherr2014functional"
+Warning--I didn't find a database entry for "tian2010functional"
+Warning--I didn't find a database entry for "burfield2015review"
+Warning--I didn't find a database entry for "dass2012introducing"
+Warning--I didn't find a database entry for "muelas2016facing"
+Warning--I didn't find a database entry for "gorrostieta2014characterization"
+Warning--I didn't find a database entry for "martinez2014air"
+Warning--I didn't find a database entry for "nikitovic2011functional"
+Warning--I didn't find a database entry for "FDAGiles"
+Warning--I didn't find a database entry for "ramsay2006functional"
+Warning--I didn't find a database entry for "hijazi2009modelling"
+Warning--I didn't find a database entry for "gueorguieva2008dirichlet"
+Warning--I didn't find a database entry for "maier2014dirichletreg"
+Warning--I didn't find a database entry for "boukal2015analyses"
+Warning--I didn't find a database entry for "camargo2012estimation"
+You've used 0 entries,
+            1940 wiz_defined-function locations,
+            501 strings with 4254 characters,
+and the built_in function-call counts, 17 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 0
+:= -- 7
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 3
+num.names$ -- 0
+pop$ -- 0
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 0
+width$ -- 0
+write$ -- 2
+(There was 1 error message)
